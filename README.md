@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -41,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
