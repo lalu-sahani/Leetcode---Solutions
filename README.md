@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
