@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
