@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0414-third-maximum-number) |
+| [0463-island-perimeter](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
