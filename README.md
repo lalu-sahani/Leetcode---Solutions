@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
