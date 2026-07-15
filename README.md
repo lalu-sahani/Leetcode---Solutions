@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0463-island-perimeter) |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
