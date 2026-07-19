@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
