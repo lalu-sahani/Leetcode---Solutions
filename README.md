@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -147,9 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
