@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
