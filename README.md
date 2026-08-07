@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0704-binary-search) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0697-degree-of-an-array) |
 ## Math
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0043-multiply-strings) |
+| [0500-keyboard-row](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0500-keyboard-row) |
 ## String Matching
 |  |
 | ------- |
