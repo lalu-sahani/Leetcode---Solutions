@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -174,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/lalu-sahani/Leetcode---Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
